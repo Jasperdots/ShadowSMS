@@ -28,13 +28,8 @@ Optimized for minimal flagging using dynamic headers and anti-spam spacing.
 ✅ Anti-Detection Cloak:
 Delay simulation, UID masking, and encoded payload injection options available.
 
-✅ CLI Mode:
-Right now there is only a CLI tool available for this. 
-
-GUI will be available soon
-
-
-✅ No Monthly Fees. One-Time Purchase.
-
+✅ To buy:
+Message me on telegram for more information
+ 
 📲 TO BUY:
 💬 DM me on Telegram → chepsreborn
